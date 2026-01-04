@@ -201,7 +201,9 @@ confusion_matrix(y_test, y_pred.round())
 - [Scikit-learn Text Feature Extraction](https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction)
 
 ## Author
-Data Science & AI Learning Project
+**Ranit Pal** - Data Science & AI Learning Project
+- GitHub: [@ranit57](https://github.com/ranit57)
+- Email: ranitpal57@gmail.com
 
 ---
 **Last Updated**: January 2026

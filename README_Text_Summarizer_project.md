@@ -293,7 +293,9 @@ summary_ids = model.generate(
 - [ROUGE Evaluation Metrics](https://en.wikipedia.org/wiki/ROUGE_(metric))
 
 ## Author
-Data Science & AI Learning Project
+**Ranit Pal** - Data Science & AI Learning Project
+- GitHub: [@ranit57](https://github.com/ranit57)
+- Email: ranitpal57@gmail.com
 
 ---
 **Last Updated**: January 2026

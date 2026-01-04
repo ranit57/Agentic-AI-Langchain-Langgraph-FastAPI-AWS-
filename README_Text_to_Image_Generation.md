@@ -87,7 +87,9 @@ image = pipe(prompt).images[0]
 - [Dreamlike Art Model](https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0)
 
 ## Author
-Data Science & AI Learning Project
+**Ranit Pal** - Data Science & AI Learning Project
+- GitHub: [@ranit57](https://github.com/ranit57)
+- Email: ranitpal57@gmail.com
 
 ---
 **Last Updated**: January 2026

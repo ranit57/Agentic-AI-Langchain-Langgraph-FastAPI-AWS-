@@ -157,7 +157,9 @@ Visit [Hugging Face Model Hub](https://huggingface.co/models) to explore:
 - [Model Hub](https://huggingface.co/models)
 
 ## Author
-Data Science & AI Learning Project
+**Ranit Pal** - Data Science & AI Learning Project
+- GitHub: [@ranit57](https://github.com/ranit57)
+- Email: ranitpal57@gmail.com
 
 ---
 **Last Updated**: January 2026
